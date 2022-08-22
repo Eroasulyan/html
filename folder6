@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="./Без названия (1).jpeg">
+    <form action="reg.pgp" autocomplete="off" name="">     
+         <fieldset>
+            <legend>personal information</legend>
+        <label for="name"> first name</label>
+        <input type="text" placeholder="name" name="name"/> <br><br>
+
+        <label for="password">password </label>
+        <input type="password" placeholder="password" name="password"/> <br><br>
+        </fieldset>      
+
+
+          <p>Select your gender</p>        
+           <label for="male"> male</label>     
+          <input type="radio" id="man" name="gender" />
+
+          <label for="famel">famel</label>
+            <input type="radio" id="women" name="gender" />
+
+            <input type="email" placeholder="write your email" name="email"/> <br><br> 
+            <input type="tel" placeholder="write your tel" name="telephone"/> <br><br>
+            <input type="checkbox" />
+
+            <select>
+                <option>Vandzor</option>
+                <option>Yerevan</option>
+            </select>
+
+            <textarea rows="1" cols="11"></textarea>
+            
+            <input type="submit" value="submit" />
+            <h4>choose your preferences</h4>
+            <label>sport<input type="checkbox" name="sport"></label><br><br>
+            <label>dance<input type="checkbox" name="dance"></label><br><br>
+            <label>eat<input type="checkbox" name="eat"></label><br><br>
+            <label>games<input type="checkbox" name="games"></label><br><br>
+            <label>fun<input type="checkbox" name="fun"></label><br><br>
+            <label>travel<input type="checkbox" name="travle"></label><br><br>
+
+            <h4>upload your picture </h4>
+            
+            
+            <P><label> Your opinion about our page</label></P>
+            <p><textarea name="messag" cols="50" rows="10" id="text"></textarea></p>
+
+            <p>
+                <input type="reset" value="delete" />
+                <input type="submit" value="send" name="button" />
+            </p>
+            <p><input type="image" src="./send buton" name="imgbuton"> </p>
+            </form>
+    <h1>Armenian best page</h1>
+
+    <meta charset="UTF-8">
+    <meta />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Armenian best page</title>
+</head>
+<body>
+    <h1>Yes im Anush Hayastani:  reciter Xoren Abrahamyan:</h1>
+    <div class="video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/j1w3fV_6Hfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="./received_1227227881408745.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+    <script>
+        alert('welcome to Armenian best page'  )
+    </script>
+    <img src="./images.jpeg" />
+    <h2>Yexishe Charenc</h2>
+    <tbody>
+        <tr>
+            <td>Yexishe</td>
+            <td>Charenc</td>
+            <td>03/13/1897 11/27/1937</td>
+        </tr>
+    </tbody>
+     <h3>Yes im anush Hayastani a poem:</h3>
+    Yes im anush Hayastani arev aham barn em sirum mer hin sazi voxbanvag lacakumac larn em sirum: 
+    Arnanman caxikneri u varderi buyr@ varman u nairyan axjikneri hezachkun parn em sirum:
+    Sirumem mer yerkinq@ mug jrer@ jinj lich@ luse arev amran u dzmerva vishapadzayn bug@ vsem 
+    mtum korac xrchitneri anhyurnakal pater@ sev u hnamya qaxaqneri hazaramya qarnem sirum:
+    ure el linem chem morana yes voxbadzayn yerger@ mer chem morana axotq darcac heqiatagir grer@ mer inchqanel 
+    sur sirts xocen aryunaqam verqer@ mer eli yes vorb u arnavar im Hayastan yarn em sirum im karotac srti hamar voch mi urish heqiat chka 
+    Narekacu Quchaki pes luspasak chakat chka ashxarh ancir Ararati nman chermak gagat chka inchpes anhas parqi champa yes im masisi</
+
+    <p><a href="mailto:webmaster@weber.am">send masseg</a></p>
+
+    <p><a href="folder4">link</a></p> /
+</body>
+
+<a href="https:\\google.com" target="_blank">Google</a>/
+
+</html>
